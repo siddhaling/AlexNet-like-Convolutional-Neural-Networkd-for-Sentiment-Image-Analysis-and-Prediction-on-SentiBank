@@ -11,5 +11,7 @@ http://www.ee.columbia.edu/ln/dvmm/vso/download/twitter_dataset.html.
 
 This data set consists of images selected from twitter with different emotions. 
 
+Here, you need to download twitter.rar and unzip into your current directory. 
+Also change the current directory in the python code
 
-
+Python version 3.6.8, Keras 2.2.4
