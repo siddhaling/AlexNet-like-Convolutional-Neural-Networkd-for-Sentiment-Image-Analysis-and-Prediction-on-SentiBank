@@ -12,7 +12,7 @@ from keras.layers.normalization import BatchNormalization
 from keras.optimizers import sgd
 from keras import backend as K
 
-os.chdir('I:\\BigDataProjects\\60-100\\ImageSentimentAnalysis\\codes\\myCode\\gitHubSubmission\\')
+os.chdir('change to current directory')
 
 dim=(256,256)
 imageShape = (dim[0],dim[1],3)
