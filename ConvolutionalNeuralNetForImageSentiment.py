@@ -152,5 +152,3 @@ model.fit(xTrainImSet, yTrainSet,batch_size=batchSize,epochs=epochs,validation_d
 print('Tesing the model')
 score = model.evaluate(xTestImSet, yTestSet)
 print('Test accuracy: ', score[1],'Test loss: ', score[0])
-
-'''
